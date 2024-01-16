@@ -3,6 +3,7 @@ import React, { useEffect, useRef } from "react";
 import "../Styling/home.css";
 import Typed from "typed.js";
 import dp from "../dp.jpg";
+import pic from "../pic2.jpg";
 
 const Home = () => {
   const typedRef = useRef(null);

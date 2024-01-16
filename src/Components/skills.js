@@ -27,6 +27,15 @@ const Skills = () => {
             <div className="skill-item">Express </div>
           </div>
         </div>
+        <div className="category">
+          <h2>Data</h2>
+          <div className="skills-list">
+            <div className="skill-item">Python </div>
+            <div className="skill-item">Pandas </div>
+            <div className="skill-item">Matplotlib </div>
+            <div className="skill-item">Machine Learning Algorithms</div>
+          </div>
+        </div>
       </div>
     </div>
   );
