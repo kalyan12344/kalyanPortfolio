@@ -76,7 +76,10 @@ const Contact = () => {
             ></path>{" "}
           </svg>
         </a>
-        <a href="https://www.linkedin.com/in/your-profile" class="social-link2">
+        <a
+          href="https://www.linkedin.com/in/kalyan-keerthipati-ab75a7200"
+          class="social-link2"
+        >
           <svg
             version="1.1"
             id="Layer_1"
