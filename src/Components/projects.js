@@ -17,7 +17,7 @@ const Projects = () => {
     },
     {
       img: "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
-      title: "MovieMix2",
+      title: "MovieMixx",
       description: "Online movie ticket booking app",
     },
 
