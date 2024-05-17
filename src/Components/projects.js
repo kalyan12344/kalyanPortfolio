@@ -6,9 +6,17 @@ import { Paper, Button } from "@mui/material";
 import tick from "../tick.png";
 import portfolio from "../portfolio.png";
 import edith from "../Edith.png";
+import echohire from "../echohire.png";
 
 const Projects = () => {
   const projects = [
+    {
+      img: echohire,
+      title: "EchoHire",
+      description:
+        "A web application that connects job seekers with employers.",
+      link: "https://echohire-se-tinycoders-project.azurewebsites.net/",
+    },
     {
       img: portfolio,
       title: "Portfolio",
